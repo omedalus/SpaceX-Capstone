@@ -9,11 +9,11 @@ Uploaded your completed presentation in PDF format (1 pt)
 
 
 Completed the required Executive Summary slide (1 pt)
-[ ]
+[X]
 
 
 Completed the required Introduction slide (1 pt)
-[ ]
+[X]
 
 
 Completed the required data collection and data wrangling methodology related slides (1 pt)
